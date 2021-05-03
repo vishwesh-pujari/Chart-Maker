@@ -1,0 +1,5 @@
+How to dynamically change ui
+https://forum.qt.io/topic/74373/how-to-use-code-to-add-items-dynamically-to-ui-and-position-them-correctly-in-qt/2
+
+Take items from rows in QFormLayout
+https://doc.qt.io/qt-5/qformlayout-takerowresult.html
